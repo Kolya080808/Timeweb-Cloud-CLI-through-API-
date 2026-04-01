@@ -85,4 +85,4 @@ MIT
 
 ---
 
-Автор: [Kolya080808](https://github.com/Kolya080808)
+Автор: [Nikolay Kravtsov](https://github.com/Kolya080808)
